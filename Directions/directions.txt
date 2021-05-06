@@ -1,0 +1,44 @@
+0 - smile VVV
+1 - hair volume, bald-> 12 and 18 VVV
+3 - dark skin + smile -> 6, 12 XXX
+4 - maybe Age, 6*, 12 VVV
+5 - hair volume or length
+6 - skin color ->6*, 12 VVV
+7 - long forehead, VVV
+9 - head angle -> 6, 12, 18 -> باید بگردی انتخاب کنی، توی هر دسته بعضی هاش خوبن. خصوصا توی ۱۸
+10 - forehead length VVV
+11 - Maybe Age. check again VVV
+13 - hair color VVV
+14 - maybe gender -> 12, 6 VVV
+15 - Gender! 18, 12, 6 VVV
+16 - face size (zoom) -> 12, 6
+17 - hair side (left right) 12, 6
+18 - head angle -> 12 ترکیبی هست با خنده و شاید رنگ مو
+19 - طاق بودن مو هست ظاهرا -> 6, 12
+21 - hair volume -> 6 VVV
+23 - smile XXX
+25 - bald -> 12, 18, 6 VVV
+26 - har in forehead VVV
+28 - har volume خوبو, bald -> 6, 12 VVV
+29 - maybe face width 6,12
+31 - face width 6 ,12
+33 - skin color خوبو
+34 - right left hair
+37 - forehead haricut XXX
+38 - hair in forehead **better than 37** VVV
+41 - face width 6, 
+42 - right side hair 6,
+43 - pale skin 6
+46 - Gender خوبو VVV
+48 - pale skin
+51- pale skin
+52 - face angle 
+53 - smile XXX
+66 - face height
+75 - skin color خوبو x 12, 6 VVV
+79 - maybe age young VVV
+80 - pale skin
+86 - gender
+89 - hair volume + black hair color خوبو x 6 VVV
+94 - face angle خوبو x 6
+95 - skin color 6 VVV
